@@ -1,4 +1,0 @@
-Hello there, it is my new file to commit
-
-But here is the updated version of the file
-
